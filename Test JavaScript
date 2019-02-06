@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Salve mondo con JavaScript</title>
+</head>
+<body>
+<script>
+document.write("salve, mondo");
+</script>
+</body>
+</html>
