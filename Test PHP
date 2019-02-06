@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Salve mondo da PHP</title>
+</head>
+<body>
+<?php
+echo "salve, mondo";
+?>
+</body>
+</html>
