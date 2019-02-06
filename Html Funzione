@@ -1,0 +1,17 @@
+<head>
+<meta charset="UTF-8">
+<title>Funzioni</title>
+</head>
+<body>
+<script>
+function moltiplica(a, b)
+{
+var m;
+m = a * b;
+return m;
+}
+var r = moltiplica(4, 7);
+document.write("Il risultato restituito dalla funzione è: " + r);
+</script>
+</body>
+</html>
